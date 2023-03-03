@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aniket5867
+- 👋 Hi, I’m @Aniket Gudgal
 - 👀 I’m interested in AI & Data Science 
 - 🌱 I’m currently learning BE(E&TC)
 - 💞️ I’m looking to collaborate on coding 
